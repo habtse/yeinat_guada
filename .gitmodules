@@ -1,0 +1,8 @@
+[submodule "ye-enat-guada-frontend"]
+	path = ye-enat-guada-frontend
+	url = https://github.com/brukted/ye-enat-guada-frontend.git
+	branch = main
+[submodule "ye-enat-guada-backend"]
+	path = ye-enat-guada-backend
+	url = https://github.com/hello-world-was-taken/ye-enat-guada-backend.git
+	branch = master
